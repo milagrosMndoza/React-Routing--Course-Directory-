@@ -2,6 +2,7 @@
   "name": "ejercicio-evaluado-github",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "https://milagrosmndoza.github.io/React-Routing--Course-Directory-/",
   "dependencies": {
     "axios": "^0.16.2",
     "react": "^16.0.0",
